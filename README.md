@@ -1,7 +1,6 @@
 ## Hi, I'm Rob 👋
 ---
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+Just feeding the AI gremlins.
 
 
 ## Current Projects
